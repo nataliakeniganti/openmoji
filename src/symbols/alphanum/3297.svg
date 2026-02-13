@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='utf-8'?>
 <svg id="emoji" version="1.1" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
  <g id="grid">
   <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
@@ -7,17 +6,17 @@
   <rect transform="translate(72) rotate(90)" x="16" y="4" width="40" height="64" rx="2.254" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
   <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
  </g>
- <g id="color" transform="matrix(.3004 0 0 .3004 -521.6 -12.27)" style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:10">
-  <circle cx="1856" cy="160.6" r="83.22" style="fill:#e5604d;stroke-width:0"/>
+ <g id="color" transform="matrix(.3004 0 0 .3004 -521.6 -12.27)">
+  <circle cx="1856" cy="160.6" r="83.22" fill="#ea5a47" stroke-width="0"/>
+  <path transform="matrix(.8297 0 0 .8297 1453 -523.3)" d="m494.1 820.7s3.805 48.35-27.75 62.88" clip-rule="evenodd" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.024"/>
+  <path transform="matrix(.8297 0 0 .8297 1453 -523.3)" d="m517.7 818.9s0.172 45.83 0.225 59.85c8e-3 2.227 1.816 4.027 4.042 4.027h17.75c2.104 0 3.955-1.389 4.542-3.409 1.179-4.156 2.882-11.3 2.241-17.02" clip-rule="evenodd" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.024"/>
+  <path transform="matrix(.8297 0 0 .8297 1453 -523.3)" d="m446.1 883.6 0.18-62.88" clip-rule="evenodd" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.024"/>
+  <path transform="matrix(.8232 0 0 .8579 1456 -544.7)" d="m538.8 775.3v37.34c0 1.963-1.661 3.557-3.707 3.557h-52.6c-2.046 0-3.708-1.594-3.708-3.557v-37.34c0-1.962 1.662-3.556 3.708-3.556h52.6c2.046 0 3.707 1.594 3.707 3.556z" clip-rule="evenodd" fill-opacity="0" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.922"/>
+  <path transform="matrix(.8297 0 0 .8297 1453 -523.3)" d="m447.5 818.9 22.25 20.74" clip-rule="evenodd" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.024"/>
+  <path transform="matrix(.8297 0 0 .8297 1453 -523.3)" d="m423.5 788.5 42.8 0.094s-11.79 30.73-46.95 55.34" clip-rule="evenodd" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.024"/>
+  <path transform="matrix(.8297 0 0 .8297 1453 -523.3)" d="m446.2 762.6 0.084 24.18" clip-rule="evenodd" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="8.024"/>
  </g>
- <g id="line" transform="matrix(1.087 0 0 1.087 -3.13 -3.172)" style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:10">
-  <circle transform="matrix(.2764 0 0 .2764 -477 -8.372)" cx="1856" cy="160.6" r="83.22" style="clip-rule:evenodd;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-width:6.657;stroke:#000"/>
-  <path transform="matrix(.2293 0 0 .2293 -75.52 -153)" d="m494.1 820.7s3.805 48.35-27.75 62.88" style="clip-rule:evenodd;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-width:8.024;stroke:#fff"/>
-  <path transform="matrix(.2293 0 0 .2293 -75.52 -153)" d="m517.7 818.9s0.172 45.83 0.225 59.85c8e-3 2.227 1.816 4.027 4.042 4.027h17.75c2.104 0 3.955-1.389 4.542-3.409 1.179-4.156 2.882-11.3 2.241-17.02" style="clip-rule:evenodd;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-width:8.024;stroke:#fff"/>
-  <path transform="matrix(.2293 0 0 .2293 -75.52 -153)" d="m446.1 883.6 0.18-62.88" style="clip-rule:evenodd;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-width:8.024;stroke:#fff"/>
-  <path transform="matrix(.2275 0 0 .2371 -74.67 -158.9)" d="m538.8 775.3v37.34c0 1.963-1.661 3.557-3.707 3.557h-52.6c-2.046 0-3.708-1.594-3.708-3.557v-37.34c0-1.962 1.662-3.556 3.708-3.556h52.6c2.046 0 3.707 1.594 3.707 3.556z" style="clip-rule:evenodd;fill-opacity:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-width:7.922;stroke:#fff"/>
-  <path transform="matrix(.2293 0 0 .2293 -75.52 -153)" d="m447.5 818.9 22.25 20.74" style="clip-rule:evenodd;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-width:8.024;stroke:#fff"/>
-  <path transform="matrix(.2293 0 0 .2293 -75.52 -153)" d="m423.5 788.5 42.8 0.094s-11.79 30.73-46.95 55.34" style="clip-rule:evenodd;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-width:8.024;stroke:#fff"/>
-  <path transform="matrix(.2293 0 0 .2293 -75.52 -153)" d="m446.2 762.6 0.084 24.18" style="clip-rule:evenodd;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-width:8.024;stroke:#fff"/>
+ <g id="line" transform="matrix(1.087 0 0 1.087 -3.13 -3.172)">
+  <circle transform="matrix(.2764 0 0 .2764 -477 -8.372)" cx="1856" cy="160.6" r="83.22" clip-rule="evenodd" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="6.657"/>
  </g>
 </svg>

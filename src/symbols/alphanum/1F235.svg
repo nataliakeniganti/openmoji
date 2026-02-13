@@ -1,30 +1,27 @@
-<?xml version='1.0' encoding='utf-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" id="emoji" version="1.1" viewBox="0 0 72 72" ns1:docname="1F235.svg" ns2:version="1.4.3 (0d15f75, 2025-12-25)">
-  <defs id="defs3" />
-  <ns1:namedview bordercolor="#000000" borderopacity="0.25" id="namedview3" pagecolor="#ffffff" ns2:current-layer="line" ns2:cx="36.029678" ns2:cy="36" ns2:deskcolor="#d1d1d1" ns2:pagecheckerboard="0" ns2:pageopacity="0.0" ns2:showpageshadow="2" ns2:window-height="1494" ns2:window-maximized="1" ns2:window-width="2400" ns2:window-x="-11" ns2:window-y="-11" ns2:zoom="16.847222" />
-  <g id="grid">
-    <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3" id="path1" />
-    <path d="M12.923,10.9583H59.0769A1.9231,1.9231,0,0,1,61,12.8814V59.0352a1.9231,1.9231,0,0,1-1.9231,1.9231H12.9231A1.9231,1.9231,0,0,1,11,59.0352V12.8813A1.923,1.923,0,0,1,12.923,10.9583Z" fill="none" id="path2" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" />
-    <rect fill="none" height="64" id="rect2" rx="2.2537" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" width="40" x="16" y="4" />
-    <rect fill="none" height="64" id="rect3" rx="2.2537" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" transform="translate(72) rotate(90)" width="40" x="16" y="4" />
-    <circle cx="36" cy="36" fill="none" id="circle3" r="29" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" />
-  </g>
-  <g id="color" style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:10" transform="matrix(0.26087,0,0,0.26087,-91.174002,-3.172496)">
-    <rect height="191.67" id="rect5" style="fill:#e5604d" width="191.67" x="391.67001" y="54.167" />
-  </g>
-  <g id="line" style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:10" transform="matrix(0.25451,0,0,0.25451,-345.57,-173.54)">
-    <rect height="191.67" id="rect6" style="fill:none;stroke:#000000;stroke-width:7.66657307;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" transform="matrix(1.025,0,0,1.025,999.54,669.38)" width="191.67" x="391.67001" y="54.167" />
-    <path d="m 1475.3,893.39 c 0,0 0.214,-47.421 0.285,-63.287 0.013,-2.822 2.303,-5.102 5.125,-5.102 h 75.105 c 1.365,0 2.673,0.544 3.635,1.512 0.962,0.968 1.498,2.279 1.49,3.644 -0.068,11.317 -0.231,38.496 -0.32,53.248 -0.033,5.494 -4.495,9.929 -9.989,9.929 h -9.667" id="path6" style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5;fill:none;stroke:#ffffff;stroke-width:7.95754743;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" transform="matrix(0.98752002,0,0,0.98752002,17.572001,10.370987)" />
-    <path d="m 1517.5,804.84 v 64.843" id="path7" style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5;fill:none;stroke:#ffffff;stroke-width:7.95754743;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none" transform="matrix(0.98752002,0,0,0.98752002,17.572001,10.370987)" />
-    <path d="m 1496.7,754.92 -0.047,47.196" id="path8" style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5;fill:none;stroke:#ffffff;stroke-width:7.95754743;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" transform="matrix(0.98752002,0,0,0.98752002,17.572001,10.370987)" />
-    <path d="m 1496.7,754.92 -0.047,47.196" id="path9" style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5;fill:none;stroke:#ffffff;stroke-width:7.95754743;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" transform="matrix(0.98752002,0,0,0.98752002,58.059998,10.370987)" />
-    <path d="m 1473.3,774.17 88.338,0.102" id="path10" style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5;fill:none;stroke:#ffffff;stroke-width:7.95754743;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" transform="matrix(0.98752002,0,0,0.98752002,17.572001,10.370987)" />
-    <path d="m 1466.7,802.92 h 100.65" id="path11" style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5;fill:none;stroke:#ffffff;stroke-width:7.95754743;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" transform="matrix(0.98752002,0,0,0.98752002,17.572001,10.370987)" />
-    <path d="m 1494.2,842.6 -0.121,35.407" id="path12" style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5;fill:none;stroke:#ffffff;stroke-width:7.95754743;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" transform="matrix(0.98752002,0,0,0.98752002,17.572001,10.370987)" />
-    <path d="m 1494,870.49 47.621,-0.07" id="path13" style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5;fill:none;stroke:#ffffff;stroke-width:7.95754743;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" transform="matrix(0.98752002,0,0,0.98752002,17.572001,10.370987)" />
-    <path d="m 1494.7,842.6 v 33.407" id="path14" style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5;fill:none;stroke:#ffffff;stroke-width:7.95754743;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" transform="matrix(0.98752002,0,0,0.98752002,63.984991,10.370987)" />
-    <path d="m 1459.2,842.6 c 0,0 -16.416,36.526 -23.085,47.094" id="path15" style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5;fill:none;stroke:#ffffff;stroke-width:7.95754743;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" transform="matrix(0.98752002,0,0,0.98752002,17.572001,10.370987)" />
-    <path d="m 1431.2,800.59 c 13.543,5.643 23.26,12.143 23.26,12.143" id="path16" style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5;fill:none;stroke:#ffffff;stroke-width:7.95754743;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" transform="matrix(0.98752002,0,0,0.98752002,17.572001,10.370987)" />
-    <path d="m 1439.4,756.52 c 10.723,4.762 21.016,13.915 21.016,13.915" id="path17" style="clip-rule:evenodd;fill-rule:evenodd;stroke-miterlimit:1.5;fill:none;stroke:#ffffff;stroke-width:7.95754743;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none" transform="matrix(0.98752002,0,0,0.98752002,17.572001,10.370987)" />
-  </g>
+<svg id="emoji" version="1.1" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+ <g id="grid">
+  <path d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3"/>
+  <path d="m12.92 10.96h46.15a1.923 1.923 0 0 1 1.923 1.923v46.15a1.923 1.923 0 0 1-1.923 1.923h-46.15a1.923 1.923 0 0 1-1.923-1.923v-46.15a1.923 1.923 0 0 1 1.923-1.923z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+  <rect x="16" y="4" width="40" height="64" rx="2.254" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+  <rect transform="translate(72) rotate(90)" x="16" y="4" width="40" height="64" rx="2.254" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+  <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1"/>
+ </g>
+ <g id="color" transform="matrix(.2609 0 0 .2609 -91.17 -3.172)" clip-rule="evenodd" fill-rule="evenodd" stroke-miterlimit="10">
+  <rect x="391.7" y="54.17" width="191.7" height="191.7" fill="#ea5a47"/>
+  <path transform="matrix(.9634 0 0 .9634 -958 -643)" d="m1475 893.4s0.214-47.42 0.285-63.29c0.013-2.822 2.303-5.102 5.125-5.102h75.1c1.365 0 2.673 0.544 3.635 1.512s1.498 2.279 1.49 3.644c-0.068 11.32-0.231 38.5-0.32 53.25-0.033 5.494-4.495 9.929-9.989 9.929h-9.667" clip-rule="evenodd" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958"/>
+  <path transform="matrix(.9634 0 0 .9634 -958 -643)" d="m1518 804.8v64.84" clip-rule="evenodd" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958"/>
+  <path transform="matrix(.9634 0 0 .9634 -958 -643)" d="m1497 754.9-0.047 47.2" clip-rule="evenodd" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958"/>
+  <path transform="matrix(.9634 0 0 .9634 -918.5 -643)" d="m1497 754.9-0.047 47.2" clip-rule="evenodd" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958"/>
+  <path transform="matrix(.9634 0 0 .9634 -958 -643)" d="m1473 774.2 88.34 0.102" clip-rule="evenodd" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958"/>
+  <path transform="matrix(.9634 0 0 .9634 -958 -643)" d="m1467 802.9h100.6" clip-rule="evenodd" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958"/>
+  <path transform="matrix(.9634 0 0 .9634 -958 -643)" d="m1494 842.6-0.121 35.41" clip-rule="evenodd" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958"/>
+  <path transform="matrix(.9634 0 0 .9634 -958 -643)" d="m1494 870.5 47.62-0.07" clip-rule="evenodd" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958"/>
+  <path transform="matrix(.9634 0 0 .9634 -912.8 -643)" d="m1495 842.6v33.41" clip-rule="evenodd" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958"/>
+  <path transform="matrix(.9634 0 0 .9634 -958 -643)" d="m1459 842.6s-16.42 36.53-23.08 47.09" clip-rule="evenodd" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958"/>
+  <path transform="matrix(.9634 0 0 .9634 -958 -643)" d="m1431 800.6c13.54 5.643 23.26 12.14 23.26 12.14" clip-rule="evenodd" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958"/>
+  <path transform="matrix(.9634 0 0 .9634 -958 -643)" d="m1439 756.5c10.72 4.762 21.02 13.92 21.02 13.92" clip-rule="evenodd" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" stroke-width="7.958"/>
+ </g>
+ <g id="line" transform="matrix(.2545 0 0 .2545 -345.6 -173.5)" clip-rule="evenodd" fill-rule="evenodd" stroke-miterlimit="10">
+  <rect transform="matrix(1.025 0 0 1.025 999.5 669.4)" x="391.7" y="54.17" width="191.7" height="191.7" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.667"/>
+ </g>
 </svg>
