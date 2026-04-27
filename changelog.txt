@@ -6,7 +6,7 @@
 OpenMoji 18.0 - XX XXX 2027
 
 Improvements:
-  * Improved 😮‍💨😵😰 by @nataliakeniganti #631
+  * Improved 😮‍💨😵😰 by @nataliakeniganti #644
 
 --------------------------------------------------------------------------------
 ☮️🍀 OpenMoji 17.0 - 23 Apr 2026
